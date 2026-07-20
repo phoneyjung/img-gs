@@ -1,1 +1,1 @@
-{"shops":[],"subs":{"geisha":[{"label":"รูปพนักงาน","slug":"f1"},{"label":"ข้อมูลร้าน","slug":"f2"}],"yoshi":[{"label":"รูปพนักงาน","slug":"f1"},{"label":"อัพเวป","slug":"f2"}]}}
+{"shops":[],"subs":{"geisha":[{"label":"รูปพนักงาน","slug":"f1"},{"label":"ข้อมูลร้าน","slug":"f2"},{"slug":"profile-card","label":"การ์ดโปรไฟล์"}],"yoshi":[{"label":"รูปพนักงาน","slug":"f1"},{"label":"อัพเวป","slug":"f2"},{"slug":"profile-card","label":"การ์ดโปรไฟล์"}]}}
